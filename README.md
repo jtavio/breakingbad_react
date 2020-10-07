@@ -4,6 +4,7 @@ _Frases de la serie breaking bad en react a la través de una solicitud una API 
 
 ## Clona este repositorio 😎
 
+https://github.com/jtavio/breakingbad_react.git
 
 ## Descargamos yarn en nuestra PC 
 
